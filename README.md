@@ -1,7 +1,7 @@
 # ml-facial-recognition
 Machine Learning - Facial recognition
 
-Using PCA and GridSearch for predicting faces
+Using SVM, PCA and GridSearch for predicting faces
 
 ## Using the Source Code
 1. Clone this project
